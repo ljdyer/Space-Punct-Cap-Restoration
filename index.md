@@ -5,7 +5,7 @@
 | Anthony Hughes<sup>1</sup> | [A.J.Hughes2@wlv.ac.uk](mailto:A.J.Hughes2@wlv.ac.uk) |
 | Laurence Dyer<sup>1</sup> | [L.J.Dyer@wlv.ac.uk](mailto:L.J.Dyer@wlv.ac.uk) / [ljdyer@gmail.com](mailto:ljdyer@gmail.com) |
 | Dhwani Shah | [D.R.Shah2@wlv.ac.uk](mailto:D.R.Shah2@wlv.ac.uk) |
-| Burcu Can | [b.can@wlv.ac.uk](mailto:b.can@wlv.ac.uk) |
+| Burcu Can | [B.Can@wlv.ac.uk](mailto:B.Can@wlv.ac.uk) |
 
 <sup>1</sup>Anthony Hughes and Laurence Dyer contributed equally to this work as first authors.
 
