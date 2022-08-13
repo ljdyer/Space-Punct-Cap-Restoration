@@ -1,4 +1,4 @@
-## Authors
+### Authors
 
 | Name  | Contact |
 | ------------- | ------------- |
@@ -9,15 +9,15 @@
 
 <sup>1</sup>Anthony Hughes and Laurence Dyer contributed equally to this work as first authors.
 
-## Code repositories
+### Code repositories
 
-### Evaluation metrics
+#### Evaluation metrics
 
 | Repo name  | Description |
 | ------------- | ------------- |
 | [Feature Restorer Metric Getter](https://github.com/ljdyer/Feature-Restorer-Metric-Getter)  | A Python class for calculating precision/recall/F-score and word error rate (WER) metrics for the outputs of feature restoration models against reference strings.  |
 
-### Models
+#### Models
 
 | Repo name  | Description |
 | ------------- | ------------- |
