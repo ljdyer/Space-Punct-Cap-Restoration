@@ -1,13 +1,15 @@
-## Comparison of Token- and Character-Level Approaches to Restoration of Spaces, Punctuation, and Capitalization in Various Languages
-
-This GitHub page is a portal to repositories associated with the paper "Comparison of Token- and Character-Level Approaches to Restoration of
-Spaces, Punctuation, and Capitalization in Various Languages" written in 2022 by Anthony Hughes, Laurence Dyer, Dhwani Shah, and Burcu Can ({l.j.dyer, a.j.hughes2, d.r.shah2, b.can}@wlv.ac.uk).
-
-### Authors
+## Authors
 
 | Name  | Contact |
 | ------------- | ------------- |
-| Laurence Dyer | [L.J.Dyer@wlv.ac.uk](mailto:L.J.Dyer@wlv.ac.uk) / [ljdyer@gmail.com](mailto:ljdyer@gmail.com) |
+| Anthony Hughes<sup>1</sup> | [A.J.Hughes2@wlv.ac.uk](mailto:A.J.Hughes2@wlv.ac.uk) |
+| Laurence Dyer<sup>1</sup> | [L.J.Dyer@wlv.ac.uk](mailto:L.J.Dyer@wlv.ac.uk) / [ljdyer@gmail.com](mailto:ljdyer@gmail.com) |
+| Dhwani Shah | [D.R.Shah2@wlv.ac.uk](mailto:D.R.Shah2@wlv.ac.uk) |
+| Burcu Can | [b.can@wlv.ac.uk](mailto:b.can@wlv.ac.uk) |
+
+<sup>1</sup>Anthony Hughes and Laurence Dyer contributed equally to this work as first authors.
+
+## Code repositories
 
 ### Evaluation metrics
 
