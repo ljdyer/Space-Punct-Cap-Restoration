@@ -21,5 +21,5 @@
 
 | Repo name  | Description |
 | ------------- | ------------- |
-| [Naive Bayes Space Restorer](https://github.com/ljdyer/Naive-Bayes-Space-Restorer) | A Python class to allow enable convenient training of a Naive Bayes-based statistical model for restoration of spaces to unsegmented streams of input characters.
-| [BiLSTM Char Feature Restorer](https://github.com/ljdyer/BiLSTM-Char-Feature-Restorer/)  | A Python class to allow enable convenient training of BiLSTM character-level models for restoration of features such as spaces, punctuation, and capitalisation to unsegmented streams of input characters.  |
+| [Naive Bayes Space Restorer](https://github.com/ljdyer/Naive-Bayes-Space-Restorer) | A Python class to enable convenient training of a Naive Bayes-based statistical model for restoration of spaces to unsegmented streams of input characters.
+| [BiLSTM Char Feature Restorer](https://github.com/ljdyer/BiLSTM-Char-Feature-Restorer/)  | A Python class to enable convenient training of BiLSTM character-level models for restoration of features such as spaces, punctuation, and capitalisation to unsegmented streams of input characters.  |
