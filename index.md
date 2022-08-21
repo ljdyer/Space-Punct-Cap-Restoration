@@ -19,7 +19,9 @@
 
 #### Models
 
-| Repo name  | Description |
-| ------------- | ------------- |
-| [Naive Bayes Space Restorer](https://github.com/ljdyer/Naive-Bayes-Space-Restorer) | A Python class to enable convenient training of a Naive Bayes-based statistical model for restoration of spaces to unsegmented streams of input characters.
-| [BiLSTM Char Feature Restorer](https://github.com/ljdyer/BiLSTM-Char-Feature-Restorer/)  | A Python class to enable convenient training of BiLSTM character-level models for restoration of features such as spaces, punctuation, and capitalisation to unsegmented streams of input characters.  |
+| Repo name  | Model name(s) in paper | Description |
+| ------------- | ------------- | ------------- |
+| [Naive Bayes Space Restorer](https://github.com/ljdyer/Naive-Bayes-Space-Restorer) | NB | A Python class to enable convenient training of a Naive Bayes-based statistical model for restoration of spaces to unsegmented streams of input characters.
+| [BiLSTM Char Feature Restorer](https://github.com/ljdyer/BiLSTM-Char-Feature-Restorer/) | BiLSTMCharSpace, BiLSTMCharE2E | A Python class to enable convenient training of BiLSTM character-level models for restoration of features such as spaces, punctuation, and capitalisation to unsegmented streams of input characters.
+| [CRF for Punctuation Restoration](https://github.com/anthonyhughes/crf-punctuation-restoration) | CRF | Conditional Random Fields model for a punctuation restoration task.
+| [Punctuation Restoration using Transformer Models](https://github.com/anthonyhughes/finetuning-en-punctuation-restoration) | BERTBiLSTM | An extension of the paper Punctuation Restoration using Transformer Models for High-and Low-Resource Languages accepted at the EMNLP workshop W-NUT 2020. |
