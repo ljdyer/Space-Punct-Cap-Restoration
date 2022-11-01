@@ -7,7 +7,7 @@
 | Dhwani Shah | [D.R.Shah2@wlv.ac.uk](mailto:D.R.Shah2@wlv.ac.uk) |
 | Burcu Can | [B.Can@wlv.ac.uk](mailto:B.Can@wlv.ac.uk) |
 
-¹Anthony Hughes and Laurence Dyer contributed equally to this work as first authors.
+¹Laurence Dyer and Anthony Hughes contributed equally to this work as first authors.
 
 ### Code repositories
 
