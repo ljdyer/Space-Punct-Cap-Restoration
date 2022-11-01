@@ -2,8 +2,8 @@
 
 | Name  | Contact |
 | ------------- | ------------- |
-| Anthony Hughes¹ | [A.J.Hughes2@wlv.ac.uk](mailto:A.J.Hughes2@wlv.ac.uk) |
 | Laurence Dyer¹ | [L.J.Dyer@wlv.ac.uk](mailto:L.J.Dyer@wlv.ac.uk) / [ljdyer@gmail.com](mailto:ljdyer@gmail.com) |
+| Anthony Hughes¹ | [A.J.Hughes2@wlv.ac.uk](mailto:A.J.Hughes2@wlv.ac.uk) |
 | Dhwani Shah | [D.R.Shah2@wlv.ac.uk](mailto:D.R.Shah2@wlv.ac.uk) |
 | Burcu Can | [B.Can@wlv.ac.uk](mailto:B.Can@wlv.ac.uk) |
 
