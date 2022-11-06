@@ -1,9 +1,12 @@
 ### Authors
 
-Laurence Dyer¹ | [L.J.Dyer@wlv.ac.uk](mailto:L.J.Dyer@wlv.ac.uk) / [ljdyer@gmail.com](mailto:ljdyer@gmail.com) | [GitHub](https://github.com/ljdyer)
-Anthony Hughes¹ | [A.J.Hughes2@wlv.ac.uk](mailto:A.J.Hughes2@wlv.ac.uk) | [GitHub](https://github.com/anthonyhughes)
-Dhwani Shah | [D.R.Shah2@wlv.ac.uk](mailto:D.R.Shah2@wlv.ac.uk) | [GitHub](https://github.com/D-Shah1427)
-Burcu Can | [B.Can@wlv.ac.uk](mailto:B.Can@wlv.ac.uk)
+Laurence Dyer¹ \| [L.J.Dyer@wlv.ac.uk](mailto:L.J.Dyer@wlv.ac.uk) / [ljdyer@gmail.com](mailto:ljdyer@gmail.com) \| [GitHub](https://github.com/ljdyer)
+
+Anthony Hughes¹ \| [A.J.Hughes2@wlv.ac.uk](mailto:A.J.Hughes2@wlv.ac.uk) \| [GitHub](https://github.com/anthonyhughes)
+
+Dhwani Shah \| [D.R.Shah2@wlv.ac.uk](mailto:D.R.Shah2@wlv.ac.uk) \| [GitHub](https://github.com/D-Shah1427)
+
+Burcu Can \| [B.Can@wlv.ac.uk](mailto:B.Can@wlv.ac.uk)
 
 ¹Laurence Dyer and Anthony Hughes contributed equally to this work as first authors.
 
