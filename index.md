@@ -15,7 +15,7 @@
 
 | Repo name  | Description |
 | ------------- | ------------- |
-| [Feature Restorer Metric Getter](https://github.com/ljdyer/Feature-Restorer-Metric-Getter)  | A Python class for calculating precision/recall/F-score and word error rate (WER) metrics for the outputs of feature restoration models against reference strings.  |
+| [Feature Restorer Evaluator](https://github.com/ljdyer/Feature-Restorer-Evaluator)  | A Python class for calculating precision/recall/F-score and word error rate (WER) metrics for the outputs of feature restoration models against reference strings.  |
 
 #### Models
 
