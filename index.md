@@ -18,7 +18,7 @@ Clean text data for use in machine learning and natural language processing appl
 
 ### Evaluation
 
-**[Feature Restorer Evaluator](https://github.com/ljdyer/Feature-Restorer-Evaluator)** <br>
+**[Feature Restoration Evaluator](https://github.com/ljdyer/Feature-RestorationEvaluator)** <br>
 Quantitative and qualitative evaluation of ML models for restoration of textual features
 
 ### Models
