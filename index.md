@@ -11,6 +11,11 @@
 
 ## Code repositories
 
+### Data cleaning
+
+**[Text Data Cleaner](https://github.com/ljdyer/Text-Data-Cleaner)** <br>
+Clean text data for use in machine learning and natural language processing applications
+
 ### Evaluation
 
 **[Feature Restorer Evaluator](https://github.com/ljdyer/Feature-Restorer-Evaluator)** <br>
