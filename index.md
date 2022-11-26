@@ -24,10 +24,10 @@ Quantitative and qualitative evaluation of ML models for restoration of textual 
 ### Models
 
 **[Naive Bayes Space Restorer](https://github.com/ljdyer/Naive-Bayes-Space-Restorer)**<br>
-A Python class to enable convenient training of a Naive Bayes-based statistical model for restoration of spaces to unsegmented streams of input characters. (Referred to in the paper as **NB**.)
+Train Naive Bayes-based statistical machine learning models for restoring spaces to unsegmented sequences of input characters. (Referred to in the paper as **NB**.)
 
 **[BiLSTM Char Feature Restorer](https://github.com/ljdyer/BiLSTM-Char-Feature-Restorer/)**<br>
-A Python class to enable convenient training of BiLSTM character-level models for restoration of features such as spaces, punctuation, and capitalisation to unsegmented streams of input characters. (Referred to in the paper as **BiLSTMCharSpace**/**BiLSTMCharE2E**.)
+Train character-level BiLSTM models for restoration of features such as spaces, punctuation, and capitalization to unformatted texts. (Referred to in the paper as **BiLSTMCharSpace**/**BiLSTMCharE2E**.)
 
 **[CRF for Punctuation Restoration](https://github.com/anthonyhughes/crf-punctuation-restoration)**<br>
 Conditional Random Fields model for a punctuation restoration task. (Referred to in the paper as **CRF**.)
