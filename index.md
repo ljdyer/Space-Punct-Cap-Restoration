@@ -11,25 +11,30 @@
 
 ### Data cleaning
 
-#### Text Data Cleaner
+**Text Data Cleaner**
 [repo (GitHub)](https://github.com/ljdyer/Text-Data-Cleaner) | [demo (Colab)](https://colab.research.google.com/drive/1tXnlmjPEzJx1ZNAAVXcvP3N2Q-kxpsQL?usp=sharing) <br>
 Clean text data for use in machine learning and natural language processing applications
 
 ### Evaluation
 
-**[Feature Restoration Evaluator](https://github.com/ljdyer/Feature-Restoration-Evaluator)** <br>
+**Feature Restoration Evaluator**
+[repo (GitHub)](https://github.com/ljdyer/Feature-Restoration-Evaluator) | [demo (Colab)](https://colab.research.google.com/drive/1JkQAEH2uNDQkVl7BNj8vrsOeFbSeGNn_?usp=sharing)<br>
 Quantitative and qualitative evaluation of ML models for restoration of textual features
 
 ### Models
 
-**[Naive Bayes Space Restorer](https://github.com/ljdyer/Naive-Bayes-Space-Restorer)**<br>
+**Naive Bayes Space Restorer**
+[repo (GitHub)](https://github.com/ljdyer/Naive-Bayes-Space-Restorer) | [demo (Colab)](https://colab.research.google.com/drive/1ngcioFhOvS95oSYjkC4kqIYtBZUFygx6?usp=sharing)<br>
 Train Naive Bayes-based statistical machine learning models for restoring spaces to unsegmented sequences of input characters. (Referred to in the paper as **NB**.)
 
-**[BiLSTM Char Feature Restorer](https://github.com/ljdyer/BiLSTM-Char-Feature-Restorer/)**<br>
+**BiLSTM Char Feature Restorer**
+[repo (GitHub)](https://github.com/ljdyer/BiLSTM-Char-Feature-Restorer/) | [demo (Colab)](https://colab.research.google.com/drive/1aS6_-5rX4TOaa-qHIBCSW07-xS7nihk4?usp=sharing)<br>
 Train character-level BiLSTM models for restoration of features such as spaces, punctuation, and capitalization to unformatted texts. (Referred to in the paper as **BiLSTMCharSpace**/**BiLSTMCharE2E**.)
 
-**[CRF for Punctuation Restoration](https://github.com/anthonyhughes/crf-punctuation-restoration)**<br>
+**CRF for Punctuation Restoration**
+[repo (GitHub)](https://github.com/anthonyhughes/crf-punctuation-restoration)<br>
 Conditional Random Fields model for a punctuation restoration task. (Referred to in the paper as **CRF**.)
 
-**[Punctuation Restoration using Transformer Models](https://github.com/anthonyhughes/finetuning-en-punctuation-restoration)**<br>
+**Punctuation Restoration using Transformer Models**
+[repo (GitHub)](https://github.com/anthonyhughes/finetuning-en-punctuation-restoration)<br>
 An extension of the paper Punctuation Restoration using Transformer Models for High-and Low-Resource Languages accepted at the EMNLP workshop W-NUT 2020. (Referred to in the paper as **BERTBiLSTM**.)
