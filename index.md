@@ -1,5 +1,3 @@
-<title>TEST</title>
-
 ## Authors
 
 **Laurence Dyer¹** \| [L.J.Dyer@wlv.ac.uk](mailto:L.J.Dyer@wlv.ac.uk) / [ljdyer@gmail.com](mailto:ljdyer@gmail.com) \| [GitHub](https://github.com/ljdyer)<br>
@@ -13,7 +11,8 @@
 
 ### Data cleaning
 
-**[Text Data Cleaner](https://github.com/ljdyer/Text-Data-Cleaner)** <br>
+#### Text Data Cleaner
+[repo (GitHub)](https://github.com/ljdyer/Text-Data-Cleaner) | [demo (Colab)](https://colab.research.google.com/drive/1tXnlmjPEzJx1ZNAAVXcvP3N2Q-kxpsQL?usp=sharing) <br>
 Clean text data for use in machine learning and natural language processing applications
 
 ### Evaluation
